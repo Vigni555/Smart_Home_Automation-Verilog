@@ -1,4 +1,4 @@
-Smart_Home_Automation/
+Smart_Home_Automation/ 
 ├── src/
 │   ├── smart_home_automation.v   // Core module
 │   ├── SHS.v   // Enhanced module
